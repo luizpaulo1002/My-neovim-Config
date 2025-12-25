@@ -1,2 +1,2 @@
-# My-vim-Config
-My vim Config
+# My-neovim-Config
+My Neovim Config
